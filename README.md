@@ -23,4 +23,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Signing In, App Icon, Launch Screen
+<img src='https://user-images.githubusercontent.com/61296527/135904343-fc1b9d2d-2ee4-4c3a-8459-5ec567c03b4d.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Signing Up
+<img src='https://user-images.githubusercontent.com/61296527/135904545-fa5bc22d-e6ff-455e-a9b9-903e8ef88410.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Posting Image
+<img src='https://user-images.githubusercontent.com/61296527/135904629-ff82d60f-519f-42c2-b88e-4c03e999b8f9.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Scrolling through posts
+<img src='https://user-images.githubusercontent.com/61296527/135904755-93afdee0-af2f-4e87-9589-044bdededa65.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+
