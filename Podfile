@@ -8,6 +8,7 @@ target 'Insta Clone' do
   # Pods for Insta Clone
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'Insta CloneTests' do
     inherit! :search_paths

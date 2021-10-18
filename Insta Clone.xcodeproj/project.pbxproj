@@ -22,6 +22,7 @@
 		DE76320F270A040600333D0C /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE76320E270A040600333D0C /* FeedViewController.swift */; };
 		DE763211270A110600333D0C /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE763210270A110600333D0C /* CameraViewController.swift */; };
 		DEDDC6E9270B6F94007CAB10 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEDDC6E8270B6F94007CAB10 /* PostCell.swift */; };
+		DEF20A05271B2C480088DE6F /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF20A04271B2C480088DE6F /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		DE76320E270A040600333D0C /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		DE763210270A110600333D0C /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		DEDDC6E8270B6F94007CAB10 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		DEF20A04271B2C480088DE6F /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F58E745229B2F27D38F5F5DE /* Pods-Insta CloneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Insta CloneTests.debug.xcconfig"; path = "Target Support Files/Pods-Insta CloneTests/Pods-Insta CloneTests.debug.xcconfig"; sourceTree = "<group>"; };
 		F73B809DD064A3F78BFB42F9 /* Pods_Insta_CloneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Insta_CloneTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -145,6 +147,7 @@
 				DE7631E52709FF3F00333D0C /* Assets.xcassets */,
 				DE7631E72709FF3F00333D0C /* LaunchScreen.storyboard */,
 				DE7631EA2709FF3F00333D0C /* Info.plist */,
+				DEF20A04271B2C480088DE6F /* CommentCell.swift */,
 			);
 			path = "Insta Clone";
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				DE76320F270A040600333D0C /* FeedViewController.swift in Sources */,
 				DE7631DF2709FF3C00333D0C /* SceneDelegate.swift in Sources */,
 				DEDDC6E9270B6F94007CAB10 /* PostCell.swift in Sources */,
+				DEF20A05271B2C480088DE6F /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
