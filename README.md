@@ -59,4 +59,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+### Stays Logged in
+<img src='https://user-images.githubusercontent.com/61296527/137846319-7d0fa150-d5d7-475c-95e5-a89b86a07825.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Can Logout
+<img src='https://user-images.githubusercontent.com/61296527/137846572-b197857a-5906-43f7-8e7d-ddbe72a82d11.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Can View Comments
+<img src='https://user-images.githubusercontent.com/61296527/137846854-bc02e416-1dbf-45cd-8e60-c4f0d6715367.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+### Can add new comment
+<img src='https://user-images.githubusercontent.com/61296527/137846724-461f96c4-779e-4dac-87e5-6b99fb75f983.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
